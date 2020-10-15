@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1eaff6e6-f6c1-47d5-9125-c76f95a19926" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -161,6 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602738645024</updated>
       <workItem from="1602738646091" duration="804000" />
+      <workItem from="1602791647826" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="Laravel installation">
       <created>1602739386488</created>
@@ -184,10 +186,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="96" key="CommitChangelistDialog2/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602739385349" />
-    <state x="637" y="222" key="RollbackChangesDialog" timestamp="1602739315581">
+    <state x="637" y="222" key="RollbackChangesDialog" timestamp="1602791668009">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="637" y="222" key="RollbackChangesDialog/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602739315581" />
+    <state x="637" y="222" key="RollbackChangesDialog/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602791668009" />
     <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602739445308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
