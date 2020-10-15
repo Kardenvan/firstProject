@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1eaff6e6-f6c1-47d5-9125-c76f95a19926" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/about.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/contacts.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/inc/footer.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/inc/header.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/inc/hero.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/inc/sidebar.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/app.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webpack.mix.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +30,7 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="Владислав &lt;kmlichking1234@mail.ru&gt;" />
         <option value="Kardenvan" />
       </list>
     </option>
@@ -137,6 +151,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1ittJXAg3IDBbKXDpq4fmcf4uvU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -145,6 +162,8 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -162,7 +181,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602738645024</updated>
       <workItem from="1602738646091" duration="804000" />
-      <workItem from="1602791647826" duration="25000" />
+      <workItem from="1602791647826" duration="3884000" />
+      <workItem from="1602795799933" duration="1550000" />
     </task>
     <task id="LOCAL-00001" summary="Laravel installation">
       <created>1602739386488</created>
@@ -171,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602739386488</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gitignore renewal">
+      <created>1602791926465</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602791926465</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,20 +206,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Laravel installation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Laravel installation" />
+    <MESSAGE value="gitignore renewal" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore renewal" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="96" key="CommitChangelistDialog2" timestamp="1602739385349">
+    <state x="845" y="353" width="538" height="333" key="#File_Watchers" timestamp="1602796080696">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="96" key="CommitChangelistDialog2/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602739385349" />
-    <state x="637" y="222" key="RollbackChangesDialog" timestamp="1602791668009">
+    <state x="845" y="353" width="538" height="333" key="#File_Watchers/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602796080696" />
+    <state x="585" y="96" key="CommitChangelistDialog2" timestamp="1602791925878">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="637" y="222" key="RollbackChangesDialog/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602791668009" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602739445308">
+    <state x="585" y="96" key="CommitChangelistDialog2/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602791925878" />
+    <state x="628" y="298" key="EditFileWatcherDialog" timestamp="1602796080063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602739445308" />
+    <state x="628" y="298" key="EditFileWatcherDialog/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602796080063" />
+    <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1602796076639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602796076639" />
+    <state x="795" y="443" key="NewPhpFileDialog" timestamp="1602797208378">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="443" key="NewPhpFileDialog/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602797208378" />
+    <state x="637" y="222" key="RollbackChangesDialog" timestamp="1602791723130">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="637" y="222" key="RollbackChangesDialog/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602791723130" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1602797119133">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602797119133" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602791930202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1680.32.1680.1010@0.0.1920.1040" timestamp="1602791930202" />
   </component>
 </project>
